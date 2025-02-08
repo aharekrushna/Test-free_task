@@ -273,7 +273,7 @@ const CreativeDataTable: React.FC<CreativeDataTableProps> = ({
             </svg>
           </button>
 
-          <div className="flex items-center px-4 py-2 text-sm font-light text-gray-700 dark:text-gray-300 bg-white dark:bg-gray-800 border border-gray-300 dark:border-gray-600 rounded-lg">
+          <div className="flex items-center px-2 py-2 text-sm font-light text-gray-700 dark:text-gray-300 bg-white dark:bg-gray-800 border border-gray-300 dark:border-gray-600 rounded-lg">
             Page {currentPage} of {totalPages}
           </div>
 
