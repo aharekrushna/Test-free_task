@@ -151,7 +151,7 @@ function App() {
   };
 
   return (
-    <div className="container mx-auto px-10 py-4 w-full dark:bg-gray-900 h-full overflow-x-clip">
+    <div className="container mx-auto px-3 py-4 w-full dark:bg-gray-900 h-full overflow-x-clip">
       <div className="my-10 dark:bg-gray-900">
         <PortfolioEmbed />
       </div>
